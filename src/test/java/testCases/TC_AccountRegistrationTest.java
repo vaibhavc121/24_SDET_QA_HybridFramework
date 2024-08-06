@@ -14,35 +14,50 @@ public class TC_AccountRegistrationTest extends BaseClass
 	@Test
 	public void verify_ac_reg()
 	{
-		HomePage hp = new HomePage(driver);
-		hp.myacClick();
-		hp.regClick();
+		logger.info("test case started");
 
-		AccountRegistrationPage regpg = new AccountRegistrationPage(driver);
-//		regpg.setfname("vaibhav");
-//		regpg.setlname("chavan");
-//		regpg.setmail("vaibhavc121@gmail.com");
-//		regpg.setele("7769967226");
-//		regpg.setpwd("vaibhav");
-//		regpg.setcnfpwd("vaibhav");
-//		regpg.checkagree();
-//		regpg.clickcont();
+		try
+		{
+			HomePage hp = new HomePage(driver);
+			hp.myacClick();
+			logger.info("clicked on my ac link");
+			hp.regClick();
+			logger.info("clicked on reg link");
 
-		regpg.setfname(randomString());
-		regpg.setlname(randomString());
-		regpg.setmail(randomString() + "@gmail.com");
-		regpg.setele(randomNumber());
+			AccountRegistrationPage regpg = new AccountRegistrationPage(driver);
+//			regpg.setfname("vaibhav");
+//			regpg.setlname("chavan");
+//			regpg.setmail("vaibhavc121@gmail.com");
+//			regpg.setele("7769967226");
+//			regpg.setpwd("vaibhav");
+//			regpg.setcnfpwd("vaibhav");
+//			regpg.checkagree();
+//			regpg.clickcont();
 
-		String password = randomAlphaNumeric();
-		regpg.setpwd(password);
-		regpg.setcnfpwd(password);
-		regpg.checkagree();
-		regpg.clickcont();
+			logger.info("providing cust details");
+			regpg.setfname(randomString());
+			regpg.setlname(randomString());
+			regpg.setmail(randomString() + "@gmail.com");
+			regpg.setele(randomNumber());
 
-		String exp = "Your Account Has Been Created!";
-		String act = regpg.getConfirmationMessage();
+			String password = randomAlphaNumeric();
+			regpg.setpwd(password);
+			regpg.setcnfpwd(password);
+			regpg.checkagree();
+			regpg.clickcont();
 
-		Assert.assertEquals(act, exp);
+			String exp = "Your Account Has Been Created!";
+			String act = regpg.getConfirmationMessage();
+
+			logger.info("validating expected message");
+			Assert.assertEquals(act, exp);
+		}
+		catch (Exception e)
+		{
+			logger.error("test failed..");
+			logger.debug("debug logs..");
+			Assert.fail();
+		}
 
 	}
 

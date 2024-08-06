@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-03T17:27:14 IST" name="Default suite" finished-at="2024-08-03T17:27:28 IST" duration-ms="14496">
+  <suite started-at="2024-08-06T23:28:53 IST" name="Default suite" finished-at="2024-08-06T23:29:00 IST" duration-ms="6963">
     <groups>
     </groups>
-    <test started-at="2024-08-03T17:27:14 IST" name="Default test" finished-at="2024-08-03T17:27:28 IST" duration-ms="14496">
+    <test started-at="2024-08-06T23:28:53 IST" name="Default test" finished-at="2024-08-06T23:29:00 IST" duration-ms="6963">
       <class name="testCases.TC_AccountRegistrationTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_AccountRegistrationTest@3c41ed1d]" started-at="2024-08-03T17:27:14 IST" name="setup" finished-at="2024-08-03T17:27:24 IST" duration-ms="10155" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_AccountRegistrationTest@6c5945a7]" started-at="2024-08-06T23:28:53 IST" name="setup" finished-at="2024-08-06T23:28:58 IST" duration-ms="4857" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_ac_reg()[pri:0, instance:testCases.TC_AccountRegistrationTest@3c41ed1d]" started-at="2024-08-03T17:27:24 IST" name="verify_ac_reg" finished-at="2024-08-03T17:27:28 IST" duration-ms="4300" status="PASS">
+        <test-method signature="verify_ac_reg()[pri:0, instance:testCases.TC_AccountRegistrationTest@6c5945a7]" started-at="2024-08-06T23:28:58 IST" name="verify_ac_reg" finished-at="2024-08-06T23:29:00 IST" duration-ms="2040" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_ac_reg -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_AccountRegistrationTest@3c41ed1d]" started-at="2024-08-03T17:27:28 IST" name="teardown" finished-at="2024-08-03T17:27:28 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_AccountRegistrationTest@6c5945a7]" started-at="2024-08-06T23:29:00 IST" name="teardown" finished-at="2024-08-06T23:29:00 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
