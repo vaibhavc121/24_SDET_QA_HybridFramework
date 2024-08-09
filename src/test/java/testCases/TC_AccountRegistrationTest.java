@@ -59,6 +59,7 @@ public class TC_AccountRegistrationTest extends BaseClass
 			Assert.fail();
 		}
 
+		logger.info("finished test case");
 	}
 
 }

@@ -43,3 +43,108 @@
 2024-08-06 23:29:00.694 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2b56f5f8: 6 ms
 2024-08-06 23:29:00.702 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5cdf39b2: 7 ms
 2024-08-06 23:29:00.703 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@14f3c6fc: 0 ms
+2024-08-07 21:18:15.216 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 21:18:15.223 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 21:18:15.224 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 21:18:15.225 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 21:18:15.226 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 21:18:15.226 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 21:18:15.228 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 21:18:15.228 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 21:18:15.233 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-08-07 21:18:15.242 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2024-08-07 21:18:15.244 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 21:18:15.245 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 21:18:15.247 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 21:18:15.247 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 21:18:15.247 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 21:18:15.248 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 21:18:15.249 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 21:18:15.249 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 21:18:15.250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 21:18:15.250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 21:18:15.252 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 21:18:15.252 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 21:18:15.253 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 21:18:15.253 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 21:18:15.254 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-08-07 21:18:15.254 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 21:18:15.257 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 21:18:15.258 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 21:18:15.258 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 21:18:15.258 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 21:18:15.269 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vaibhav\AppData\Local\Temp\testng-eclipse--452406902\testng-customsuite.xml
+
+2024-08-07 21:18:15.291 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2024-08-07 21:18:25.696 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-07 21:18:25.782 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-07 21:18:26.107 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-07 21:18:26.108 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-07 21:18:27.302 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-07 21:18:27.305 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-07 21:18:27.379 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@e04ccf8: 41 ms
+2024-08-07 21:18:27.379 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@51d143a1: 0 ms
+2024-08-07 21:18:27.384 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@203c20cf: 4 ms
+2024-08-07 21:18:27.388 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@f3fcd59: 4 ms
+2024-08-07 21:18:27.393 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@a20b94b: 5 ms
+2024-08-07 21:18:27.393 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5cdf39b2: 0 ms
+2024-08-09 12:55:32.524 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-09 12:56:27.410 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-09 12:56:37.509 [main] ERROR testCases.TC_AccountRegistrationTest - test failed..
+2024-08-09 12:56:48.560 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-09 12:56:56.908 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-09 12:56:56.955 [main] ERROR testCases.TC_AccountRegistrationTest - test failed..
+2024-08-09 12:57:51.580 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-09 12:58:06.438 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-09 12:58:06.495 [main] ERROR testCases.TC_AccountRegistrationTest - test failed..
+2024-08-09 12:58:35.943 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-09 13:00:00.948 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-09 13:28:33.687 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-09 13:29:06.348 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-09 13:29:06.384 [TestNG-tests-2] ERROR testCases.TC_AccountRegistrationTest - test failed..
+2024-08-09 13:29:08.419 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-09 13:29:08.435 [TestNG-tests-1] ERROR testCases.TC_AccountRegistrationTest - test failed..
+2024-08-09 13:30:38.267 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-09 13:30:49.055 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-09 13:30:49.089 [TestNG-tests-2] ERROR testCases.TC_AccountRegistrationTest - test failed..
+2024-08-09 13:30:50.056 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-09 13:30:50.056 [TestNG-tests-1] ERROR testCases.TC_AccountRegistrationTest - test failed..
+2024-08-09 15:19:39.037 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-09 15:19:43.814 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-09 15:19:43.899 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-09 15:19:44.234 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-09 15:19:44.237 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-09 15:19:45.850 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-09 15:19:45.852 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-09 15:26:37.630 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\crossbrowsertesting.xml
+
+2024-08-09 15:26:40.394 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-09 15:26:40.520 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-09 15:26:41.077 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-09 15:26:41.081 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-09 15:26:42.154 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-09 15:26:42.157 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-09 15:26:43.566 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-09 15:26:43.695 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-09 15:26:44.330 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-09 15:26:44.330 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-09 15:26:45.917 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-09 15:26:45.917 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - finished test case
