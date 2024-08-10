@@ -1,5 +1,6 @@
 package testCases;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import pageObjects.HomePage;
@@ -13,12 +14,32 @@ public class TC_LoginTest extends BaseClass
 	public void verifyLogin()
 	{
 		logger.info("login test started..");
-		HomePage hp = new HomePage(driver);
-		hp.myacClick();
-		hp.clkLogin();
-		LoginPage lp = new LoginPage(driver);
-		lp.setEmail(p.getProperty("email"));
-		lp.setPwd("password");
-		MyAccountPage ac = new MyAccountPage(driver);
+
+		try
+		{
+			// homePage
+			HomePage hp = new HomePage(driver);
+			hp.myacClick();
+			hp.clkLogin();
+
+			// Login
+			LoginPage lp = new LoginPage(driver);
+			lp.setEmail(p.getProperty("email"));
+			lp.setPwd(p.getProperty("password"));
+			lp.clkLogin();
+
+			// MyAccount
+			MyAccountPage myac = new MyAccountPage(driver);
+			boolean act = myac.isMyAccountPageExists();
+			// Assert.assertEquals(act, true,"login failed");
+			Assert.assertTrue(act);
+
+		}
+		catch (Exception e)
+		{
+			Assert.fail();
+		}
+
+		logger.info("test case finished");
 	}
 }

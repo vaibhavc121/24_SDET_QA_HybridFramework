@@ -148,3 +148,110 @@
 2024-08-09 15:26:44.330 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - providing cust details
 2024-08-09 15:26:45.917 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - validating expected message
 2024-08-09 15:26:45.917 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-10 10:47:27.671 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-10 10:47:31.732 [main] INFO  testCases.TC_LoginTest - login test started..
+2024-08-10 10:49:56.019 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-10 10:49:59.453 [main] INFO  testCases.TC_LoginTest - login test started..
+2024-08-10 10:50:01.633 [main] INFO  testCases.TC_LoginTest - test case finished
+2024-08-10 21:14:25.410 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-10 21:14:30.609 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:14:32.125 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-10 21:14:32.129 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:14:33.587 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-10 21:14:33.592 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:14:35.156 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:14:56.246 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:14:59.610 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-10 21:18:18.969 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-10 21:18:22.121 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:18:23.628 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-10 21:18:23.636 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:18:25.118 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-10 21:18:25.122 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:18:26.534 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:18:47.581 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:18:50.844 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-10 21:41:33.707 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-10 21:41:33.723 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-10 21:41:33.723 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-10 21:41:33.723 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-10 21:41:33.738 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-10 21:41:33.738 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-10 21:41:33.738 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-10 21:41:33.738 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-10 21:41:33.738 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-10 21:41:33.754 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2024-08-10 21:41:33.764 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-10 21:41:33.764 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-10 21:41:33.764 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-10 21:41:33.764 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-10 21:41:33.764 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-10 21:41:33.764 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-10 21:41:33.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-10 21:41:33.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-10 21:41:33.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-10 21:41:33.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-10 21:41:33.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-10 21:41:33.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-10 21:41:33.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-10 21:41:33.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-10 21:41:33.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-10 21:41:33.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-10 21:41:33.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-10 21:41:33.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-10 21:41:33.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-10 21:41:33.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-10 21:41:33.786 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vaibhav\AppData\Local\Temp\testng-eclipse-882029550\testng-customsuite.xml
+
+2024-08-10 21:41:33.801 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
+2024-08-10 21:41:34.820 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1f38957: 55 ms
+2024-08-10 21:41:34.828 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4dafba3e: 8 ms
+2024-08-10 21:41:34.838 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@352e787a: 10 ms
+2024-08-10 21:41:34.845 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6a84bc3f: 7 ms
+2024-08-10 21:41:34.850 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6e1d4137: 5 ms
+2024-08-10 21:41:34.850 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@256a1825: 0 ms
+2024-08-10 21:41:50.708 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-10 21:41:53.860 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:41:55.264 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-10 21:41:55.274 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:41:56.626 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-10 21:41:56.630 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:41:57.990 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:42:19.102 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:42:21.472 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-10 21:44:31.348 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-10 21:44:34.588 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:44:36.024 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-10 21:44:36.031 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:44:37.432 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-10 21:44:37.443 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:44:38.823 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:44:59.784 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:45:04.347 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-10 21:45:04.353 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:49:13.726 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-10 21:49:16.970 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:49:18.390 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-10 21:49:18.395 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:49:19.728 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-10 21:49:19.733 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:49:21.097 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-10 21:49:21.102 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:49:42.113 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-10 21:49:44.127 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-10 21:49:44.133 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
