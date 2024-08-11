@@ -52,7 +52,7 @@ public class TC_LoginDDT extends BaseClass
 
 			if (exp.equalsIgnoreCase("valid"))
 			{
-				if (act = true)
+				if (act == true)
 				{
 					myac.clklogout();
 					Assert.assertTrue(true);
@@ -69,7 +69,7 @@ public class TC_LoginDDT extends BaseClass
 			if (exp.equalsIgnoreCase("invalid"))
 			{
 
-				if (act = true)
+				if (act == true)
 				{
 					myac.clklogout();
 					Assert.assertTrue(false);

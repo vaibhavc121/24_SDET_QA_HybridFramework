@@ -255,3 +255,17 @@
 2024-08-10 21:49:42.113 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
 2024-08-10 21:49:44.127 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
 2024-08-10 21:49:44.133 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-11 23:09:42.157 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-11 23:09:48.713 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-11 23:09:50.520 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-11 23:09:50.536 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-11 23:09:52.168 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-11 23:09:52.173 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-11 23:09:53.802 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-11 23:10:04.934 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-11 23:10:04.939 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-11 23:10:07.989 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-11 23:10:08.070 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-11 23:10:19.279 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
