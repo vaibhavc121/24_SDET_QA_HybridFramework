@@ -21,8 +21,10 @@ public class TC_LoginDDT extends BaseClass
 	// Based on the data provider, Below method will repeat multiple times. How many
 	// inputs data provider is passing those many times below method automatically
 	// increment
-	@Test(dataProvider = "LoginData", dataProviderClass = DataProviders.class) // Getting data provider from different
-																				// class
+	@Test(dataProvider = "LoginData", dataProviderClass = DataProviders.class, groups = "datadriven") // Getting data
+																										// provider from
+																										// different
+	// class
 	public void verify_loginDDT(String email, String pwd, String exp)
 	{
 		logger.info("*** starting login DDT... ***");

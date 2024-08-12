@@ -11,7 +11,8 @@ import testBase.BaseClass;
 
 public class TC_AccountRegistrationTest extends BaseClass
 {
-	@Test
+	@Test(groups =
+	{ "regression", "master" })
 	public void verify_ac_reg()
 	{
 		logger.info("test case started");
