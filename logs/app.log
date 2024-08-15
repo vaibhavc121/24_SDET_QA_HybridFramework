@@ -269,3 +269,71 @@
 2024-08-11 23:10:07.989 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
 2024-08-11 23:10:08.070 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
 2024-08-11 23:10:19.279 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-12 21:58:28.163 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\grouping.xml
+
+2024-08-12 21:58:32.582 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-12 21:58:32.668 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-12 21:58:33.446 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-12 21:58:33.452 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-12 21:58:34.799 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-12 21:58:34.802 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-12 21:58:36.793 [main] INFO  testCases.TC_LoginTest - login test started..
+2024-08-12 21:58:37.967 [main] INFO  testCases.TC_LoginTest - test case finished
+2024-08-15 18:15:14.649 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\grouping.xml
+
+2024-08-15 18:15:25.983 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-15 18:15:26.069 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-15 18:15:26.386 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-15 18:15:26.390 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-15 18:15:27.622 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-15 18:15:27.624 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-15 18:15:29.491 [main] INFO  testCases.TC_LoginTest - login test started..
+2024-08-15 18:15:30.635 [main] INFO  testCases.TC_LoginTest - test case finished
+2024-08-15 18:24:38.827 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\grouping.xml
+
+2024-08-15 18:24:41.686 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-15 18:24:41.756 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-15 18:24:42.154 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-15 18:24:42.157 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-15 18:24:43.355 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-15 18:24:43.357 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-15 18:24:45.280 [main] INFO  testCases.TC_LoginTest - login test started..
+2024-08-15 18:24:46.460 [main] INFO  testCases.TC_LoginTest - test case finished
+2024-08-15 18:33:02.655 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\grouping.xml
+
+2024-08-15 18:33:05.354 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-15 18:33:05.433 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-15 18:33:05.769 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-15 18:33:05.771 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-15 18:33:06.998 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-15 18:33:07.002 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-15 18:33:08.852 [main] INFO  testCases.TC_LoginTest - login test started..
+2024-08-15 18:35:53.562 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\grouping.xml
+
+2024-08-15 18:35:56.556 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-15 18:35:56.652 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-15 18:35:57.669 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-15 18:35:57.671 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-15 18:35:58.889 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-15 18:35:58.891 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-15 18:36:02.354 [main] INFO  testCases.TC_LoginTest - login test started..
+2024-08-15 18:46:25.369 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\grouping.xml
+
+2024-08-15 18:46:28.054 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-15 18:46:28.133 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-15 18:46:28.450 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-15 18:46:28.453 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-15 18:46:29.650 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-15 18:46:29.652 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-15 18:46:31.544 [main] INFO  testCases.TC_LoginTest - login test started..
+2024-08-15 19:03:42.576 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\test-output\testng-failed.xml
+
+2024-08-15 19:03:45.082 [main] INFO  testCases.TC_LoginTest - login test started..
+2024-08-15 19:03:46.241 [main] INFO  testCases.TC_LoginTest - test case finished
