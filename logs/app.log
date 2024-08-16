@@ -337,3 +337,52 @@
 
 2024-08-15 19:03:45.082 [main] INFO  testCases.TC_LoginTest - login test started..
 2024-08-15 19:03:46.241 [main] INFO  testCases.TC_LoginTest - test case finished
+2024-08-16 19:00:19.891 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-16 19:00:36.486 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-16 19:00:37.941 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-16 19:00:37.961 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-16 19:00:39.303 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-16 19:00:39.306 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-16 19:00:40.866 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-16 19:00:49.550 [main] INFO  testCases.TC_LoginDDT - *** finished login DDT... ***
+2024-08-16 19:00:49.563 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-16 19:00:49.578 [main] INFO  testCases.TC_LoginDDT - *** starting login DDT... ***
+2024-08-16 19:03:22.778 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-16 19:03:25.337 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-16 19:03:25.412 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-16 19:03:25.707 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-16 19:03:25.713 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-16 19:03:27.015 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-16 19:03:27.016 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-16 19:03:28.821 [main] INFO  testCases.TC_LoginTest - login test started..
+2024-08-16 19:03:29.974 [main] INFO  testCases.TC_LoginTest - test case finished
+2024-08-16 19:06:27.337 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-16 19:06:30.604 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-16 19:06:30.717 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-16 19:06:31.074 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-16 19:06:31.078 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-16 19:06:32.292 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-16 19:06:32.295 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-16 19:06:34.300 [main] INFO  testCases.TC_LoginTest - login test started..
+2024-08-16 19:06:35.547 [main] INFO  testCases.TC_LoginTest - test case finished
+2024-08-16 19:11:13.434 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\crossbrowsertesting.xml
+
+2024-08-16 19:11:24.516 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-16 19:11:24.619 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-16 19:11:25.067 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-16 19:11:25.073 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-16 19:11:26.338 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-16 19:11:26.343 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-16 19:11:38.426 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-16 19:11:38.514 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-16 19:11:38.955 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-16 19:11:38.956 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-16 19:11:40.344 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-16 19:11:40.344 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - finished test case
