@@ -475,3 +475,15 @@
 
 2024-08-19 22:31:15.196 [main] INFO  testCases.TC_Logout - logout test started..
 2024-08-19 22:31:16.784 [main] INFO  testCases.TC_Logout - test case finished
+2024-08-20 22:59:14.202 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-20 22:59:19.832 [main] INFO  testCases.TC_EditAccount - edit ac test started..
+2024-08-20 23:05:17.109 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-20 23:05:20.050 [main] INFO  testCases.TC_EditAccount - edit ac test started..
+2024-08-20 23:05:20.458 [main] INFO  testCases.TC_EditAccount - completed homepage
+2024-08-20 23:05:21.307 [main] INFO  testCases.TC_EditAccount - completed login
+2024-08-20 23:05:21.858 [main] INFO  testCases.TC_EditAccount - click on edit ac
+2024-08-20 23:05:22.803 [main] INFO  testCases.TC_EditAccount - test case finished

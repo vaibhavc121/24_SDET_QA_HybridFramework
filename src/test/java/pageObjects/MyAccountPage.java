@@ -19,6 +19,12 @@ public class MyAccountPage extends BasePage
 	@FindBy(xpath = "//a[@class='list-group-item'][normalize-space()='Logout']")
 	WebElement logout;
 
+	@FindBy(xpath = "//a[normalize-space()='Edit Account']")
+	WebElement editAccount;
+
+	@FindBy(xpath = "//div[@class='alert alert-success alert-dismissible']")
+	WebElement acupdates;
+
 	public boolean isMyAccountPageExists()
 	{
 		try
@@ -32,9 +38,27 @@ public class MyAccountPage extends BasePage
 
 	}
 
+	public boolean isMyAccountUpdates()
+	{
+		String aString = acupdates.getText();
+		if (aString.equals("Success: Your account has been successfully updated."))
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
+
 	public void clklogout()
 	{
 		logout.click();
+	}
+
+	public void clkEditAc()
+	{
+		editAccount.click();
 	}
 
 }
