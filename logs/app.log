@@ -487,3 +487,11 @@
 2024-08-20 23:05:21.307 [main] INFO  testCases.TC_EditAccount - completed login
 2024-08-20 23:05:21.858 [main] INFO  testCases.TC_EditAccount - click on edit ac
 2024-08-20 23:05:22.803 [main] INFO  testCases.TC_EditAccount - test case finished
+2024-08-21 22:25:35.298 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-21 22:25:39.699 [main] INFO  testCases.TC_ChangePwdTest - pwd change test started..
+2024-08-21 22:25:40.010 [main] INFO  testCases.TC_ChangePwdTest - completed homepage
+2024-08-21 22:25:40.780 [main] INFO  testCases.TC_ChangePwdTest - completed login
+2024-08-21 22:25:41.059 [main] INFO  testCases.TC_ChangePwdTest - click on pwd
+2024-08-21 22:25:41.889 [main] INFO  testCases.TC_ChangePwdTest - test case finished

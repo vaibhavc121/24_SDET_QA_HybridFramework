@@ -12,7 +12,8 @@
 		<!--<parameter name="browser" value="edge"></parameter>-->
 
 		<classes>
-			<class name="testCases.TC_EditAccount" />
+			<class name="testCases.TC_ChangePwdTest" />
+			<!--<class name="testCases.TC_EditAccount" />-->
 			<!--<class name="testCases.TC_Logout" />-->
 			<!--<class name="testCases.TC_AccountRegistrationTest" />
 			<class name="testCases.TC_LoginTest" />-->

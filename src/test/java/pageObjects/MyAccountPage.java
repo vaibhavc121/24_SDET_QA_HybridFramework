@@ -25,6 +25,12 @@ public class MyAccountPage extends BasePage
 	@FindBy(xpath = "//div[@class='alert alert-success alert-dismissible']")
 	WebElement acupdates;
 
+	@FindBy(xpath = "//div[@class='alert alert-success alert-dismissible']")
+	WebElement passupdate;
+
+	@FindBy(xpath = "//a[normalize-space()='Password']")
+	WebElement password;
+
 	public boolean isMyAccountPageExists()
 	{
 		try
@@ -51,6 +57,19 @@ public class MyAccountPage extends BasePage
 		}
 	}
 
+	public boolean isPwdUpdate()
+	{
+		String pwdupdate = passupdate.getText();
+		if (pwdupdate.equals("Success: Your password has been successfully updated."))
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
+
 	public void clklogout()
 	{
 		logout.click();
@@ -59,6 +78,11 @@ public class MyAccountPage extends BasePage
 	public void clkEditAc()
 	{
 		editAccount.click();
+	}
+
+	public void clkPwd()
+	{
+		password.click();
 	}
 
 }

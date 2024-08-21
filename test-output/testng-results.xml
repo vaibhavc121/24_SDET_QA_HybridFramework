@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-20T23:05:17 IST" name="MasterSuite" finished-at="2024-08-20T23:05:22 IST" duration-ms="5697">
+  <suite started-at="2024-08-21T22:25:35 IST" name="MasterSuite" finished-at="2024-08-21T22:25:41 IST" duration-ms="6586">
     <groups>
     </groups>
-    <test started-at="2024-08-20T23:05:17 IST" name="Test" finished-at="2024-08-20T23:05:22 IST" duration-ms="5697">
-      <class name="testCases.TC_EditAccount">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_EditAccount@55562aa9]" started-at="2024-08-20T23:05:17 IST" name="setup" finished-at="2024-08-20T23:05:20 IST" duration-ms="2617" status="PASS">
+    <test started-at="2024-08-21T22:25:35 IST" name="Test" finished-at="2024-08-21T22:25:41 IST" duration-ms="6586">
+      <class name="testCases.TC_ChangePwdTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_ChangePwdTest@55562aa9]" started-at="2024-08-21T22:25:35 IST" name="setup" finished-at="2024-08-21T22:25:39 IST" duration-ms="4122" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,15 +23,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyEditAc()[pri:0, instance:testCases.TC_EditAccount@55562aa9]" started-at="2024-08-20T23:05:20 IST" name="verifyEditAc" finished-at="2024-08-20T23:05:22 IST" duration-ms="2770" status="PASS">
+        <test-method signature="verifyChangePwd()[pri:0, instance:testCases.TC_ChangePwdTest@55562aa9]" started-at="2024-08-21T22:25:39 IST" name="verifyChangePwd" finished-at="2024-08-21T22:25:41 IST" duration-ms="2198" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyEditAc -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_EditAccount@55562aa9]" started-at="2024-08-20T23:05:22 IST" name="teardown" finished-at="2024-08-20T23:05:22 IST" duration-ms="2" status="PASS">
+        </test-method> <!-- verifyChangePwd -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_ChangePwdTest@55562aa9]" started-at="2024-08-21T22:25:41 IST" name="teardown" finished-at="2024-08-21T22:25:41 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- testCases.TC_EditAccount -->
+      </class> <!-- testCases.TC_ChangePwdTest -->
     </test> <!-- Test -->
   </suite> <!-- MasterSuite -->
 </testng-results>
