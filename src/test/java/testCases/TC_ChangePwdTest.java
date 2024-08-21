@@ -45,6 +45,7 @@ public class TC_ChangePwdTest extends BaseClass
 			// my ac
 			boolean act = myac.isPwdUpdate();
 			Assert.assertEquals(act, true);
+			// Assert.assertTrue(true);
 		}
 		catch (Exception e)
 		{
