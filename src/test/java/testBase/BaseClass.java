@@ -55,6 +55,10 @@ public class BaseClass
 			{
 				capabilities.setPlatform(Platform.WIN11);
 			}
+			else if (os.equalsIgnoreCase("linux"))
+			{
+				capabilities.setPlatform(Platform.LINUX);
+			}
 			else if (os.equalsIgnoreCase("mac"))
 			{
 				capabilities.setPlatform(Platform.MAC);
@@ -75,6 +79,11 @@ public class BaseClass
 
 			case "edge":
 				capabilities.setBrowserName("MicrosoftEdge");
+
+				break;
+
+			case "firefox":
+				capabilities.setBrowserName("firefox");
 
 				break;
 

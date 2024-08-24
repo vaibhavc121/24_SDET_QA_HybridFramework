@@ -495,3 +495,70 @@
 2024-08-21 22:25:40.780 [main] INFO  testCases.TC_ChangePwdTest - completed login
 2024-08-21 22:25:41.059 [main] INFO  testCases.TC_ChangePwdTest - click on pwd
 2024-08-21 22:25:41.889 [main] INFO  testCases.TC_ChangePwdTest - test case finished
+2024-08-21 23:14:08.240 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-21 23:14:11.424 [main] INFO  testCases.TC_ChangePwdTest - pwd change test started..
+2024-08-23 18:03:38.355 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\grid-docker.xml
+
+2024-08-23 18:03:43.739 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-23 18:03:43.876 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-23 18:03:44.347 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-23 18:03:44.352 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-23 18:03:45.610 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-23 18:03:45.613 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-23 18:19:48.199 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\grid-docker.xml
+
+2024-08-23 18:19:51.833 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-23 18:19:51.958 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-23 18:19:52.635 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-23 18:19:52.639 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-23 18:19:54.097 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-23 18:19:54.099 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-23 18:22:54.303 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-23 18:23:11.985 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-23 18:23:40.173 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-23 18:23:44.942 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-23 18:23:45.066 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-23 18:23:45.433 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-23 18:23:45.436 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-23 18:23:46.790 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-23 18:23:46.792 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-23 18:23:48.654 [main] INFO  testCases.TC_LoginTest - login test started..
+2024-08-23 18:25:11.684 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\grid-docker.xml
+
+2024-08-23 18:25:15.612 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-23 18:25:15.712 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-23 18:25:16.046 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-23 18:25:16.048 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-23 18:25:17.412 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-23 18:25:17.414 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-23 18:25:22.204 [main] INFO  testCases.TC_LoginTest - login test started..
+2024-08-23 18:25:23.348 [main] INFO  testCases.TC_LoginTest - test case finished
+2024-08-23 18:25:54.680 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\grid-docker.xml
+
+2024-08-23 18:25:57.543 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-23 18:25:57.661 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-23 18:25:58.461 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-23 18:25:58.463 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-23 18:25:59.748 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-23 18:25:59.750 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-23 23:24:08.726 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\grid-docker.xml
+
+2024-08-23 23:24:12.569 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-23 23:24:12.697 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-23 23:24:13.146 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-23 23:24:13.150 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-23 23:24:14.632 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-23 23:24:14.635 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case

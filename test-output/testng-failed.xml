@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [MasterSuite]" guice-stage="DEVELOPMENT">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <listeners>
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
-  <test thread-count="5" name="Test(failed)">
-    <parameter name="os" value="Windows"/>
-    <parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="Linux-Edge(failed)">
+    <parameter name="os" value="Linux"/>
+    <parameter name="browser" value="edge"/>
     <classes>
-      <class name="testCases.TC_EditAccount">
+      <class name="testCases.TC_LoginTest">
         <methods>
+          <include name="verifyLogin"/>
           <include name="teardown"/>
-          <include name="verifyEditAc"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.TC_EditAccount -->
+      </class> <!-- testCases.TC_LoginTest -->
     </classes>
-  </test> <!-- Test(failed) -->
-</suite> <!-- Failed suite [MasterSuite] -->
+  </test> <!-- Linux-Edge(failed) -->
+</suite> <!-- Failed suite [Suite] -->
