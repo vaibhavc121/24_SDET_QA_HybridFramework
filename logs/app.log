@@ -562,3 +562,35 @@
 2024-08-23 23:24:13.150 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
 2024-08-23 23:24:14.632 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
 2024-08-23 23:24:14.635 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-26 22:51:33.699 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-26 22:51:33.802 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-26 22:51:34.328 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-26 22:51:34.334 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-26 22:51:35.919 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-26 22:51:35.921 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-26 22:51:38.187 [main] INFO  testCases.TC_LoginTest - login test started..
+2024-08-26 22:51:39.844 [main] INFO  testCases.TC_LoginTest - test case finished
+2024-08-26 22:54:23.843 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-26 22:54:23.954 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-26 22:54:24.286 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-26 22:54:24.288 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-26 22:54:26.173 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-26 22:54:26.176 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-26 22:54:28.567 [main] INFO  testCases.TC_LoginTest - login test started..
+2024-08-26 22:54:30.201 [main] INFO  testCases.TC_LoginTest - test case finished
+2024-08-26 23:34:20.623 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-26 23:34:20.724 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-26 23:34:21.053 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-26 23:34:21.057 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-26 23:34:22.339 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-26 23:34:22.340 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-26 23:34:24.244 [main] INFO  testCases.TC_LoginTest - login test started..
+2024-08-26 23:34:25.552 [main] INFO  testCases.TC_LoginTest - test case finished
+2024-08-26 23:43:05.972 [main] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-08-26 23:43:06.060 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-08-26 23:43:06.369 [main] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-08-26 23:43:06.372 [main] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-08-26 23:43:07.907 [main] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-08-26 23:43:07.909 [main] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-08-26 23:43:09.954 [main] INFO  testCases.TC_LoginTest - login test started..
+2024-08-26 23:43:11.189 [main] INFO  testCases.TC_LoginTest - test case finished
