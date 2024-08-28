@@ -31,6 +31,9 @@ public class MyAccountPage extends BasePage
 	@FindBy(xpath = "//a[normalize-space()='Password']")
 	WebElement password;
 
+	@FindBy(xpath = "//a[@class='list-group-item'][normalize-space()='Address Book']")
+	WebElement addressBook;
+
 	public boolean isMyAccountPageExists()
 	{
 		try
@@ -83,6 +86,11 @@ public class MyAccountPage extends BasePage
 	public void clkPwd()
 	{
 		password.click();
+	}
+
+	public void clkAddBook()
+	{
+		addressBook.click();
 	}
 
 }
