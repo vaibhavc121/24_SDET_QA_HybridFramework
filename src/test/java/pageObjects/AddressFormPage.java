@@ -3,6 +3,7 @@ package pageObjects;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.Select;
 
 public class AddressFormPage extends BasePage
 {
@@ -27,6 +28,14 @@ public class AddressFormPage extends BasePage
 	WebElement city;
 	@FindBy(xpath = "//input[@id='input-postcode']")
 	WebElement postCode;
+	@FindBy(xpath = "//select[@id='input-country']")
+	WebElement country;
+	@FindBy(xpath = "//select[@id='input-zone']")
+	WebElement state;
+	@FindBy(xpath = "//input[@value='0']")
+	WebElement defadd;
+	@FindBy(xpath = "//input[@value='Continue']")
+	WebElement contnu;
 
 	public void setFname(String fname)
 	{
@@ -62,4 +71,27 @@ public class AddressFormPage extends BasePage
 	{
 		postCode.sendKeys(pcode);
 	}
+
+	public void setCountry(String cntry)
+	{
+		Select select = new Select(country);
+		select.selectByVisibleText(cntry);
+	}
+
+	public void setState(String region)
+	{
+		Select select = new Select(state);
+		select.selectByVisibleText(region);
+	}
+
+	public void setDefaultAdd()
+	{
+		defadd.click();
+	}
+
+	public void clkContinueBtn()
+	{
+		contnu.click();
+	}
+
 }

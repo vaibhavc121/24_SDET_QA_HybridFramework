@@ -1,5 +1,6 @@
 package testCases;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import pageObjects.AddressFormPage;
@@ -14,7 +15,7 @@ public class TC_AddressTest extends BaseClass
 {
 	@Test(dataProvider = "AddressData", dataProviderClass = DataProviders.class)
 	public void verify_address(String fname, String lname, String company, String add1, String add2, String city,
-			String pincode)
+			String pincode, String country, String state)
 	{
 		logger.info("*** starting address DDT... ***");
 
@@ -52,11 +53,20 @@ public class TC_AddressTest extends BaseClass
 			afp.setAdd2(add2);
 			afp.setCity(city);
 			afp.setPostcode(pincode);
+			afp.setCountry(country);
+			afp.setState(state);
+			afp.setDefaultAdd();
+			afp.clkContinueBtn();
 
+			// address
+			boolean act = ap.isAddressAdded();
+			Assert.assertEquals(act, true);
+			// Assert.assertTrue(true);
 		}
 		catch (Exception e)
 		{
-			// TODO: handle exception
+			Assert.fail();
 		}
+		logger.info("test case finished");
 	}
 }

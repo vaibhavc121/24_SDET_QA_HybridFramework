@@ -602,3 +602,12 @@
 2024-08-28 23:45:51.510 [main] INFO  testCases.TC_AddressTest - completed login
 2024-08-28 23:45:51.745 [main] INFO  testCases.TC_AddressTest - clicked on address book
 2024-08-28 23:45:52.192 [main] INFO  testCases.TC_AddressTest - providing info to address form
+2024-08-31 11:21:05.360 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-31 11:21:17.291 [main] INFO  testCases.TC_AddressTest - *** starting address DDT... ***
+2024-08-31 11:21:17.577 [main] INFO  testCases.TC_AddressTest - completed homepage
+2024-08-31 11:21:18.460 [main] INFO  testCases.TC_AddressTest - completed login
+2024-08-31 11:21:18.702 [main] INFO  testCases.TC_AddressTest - clicked on address book
+2024-08-31 11:21:19.140 [main] INFO  testCases.TC_AddressTest - providing info to address form
+2024-08-31 11:21:20.420 [main] INFO  testCases.TC_AddressTest - test case finished
