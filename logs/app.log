@@ -611,3 +611,37 @@
 2024-08-31 11:21:18.702 [main] INFO  testCases.TC_AddressTest - clicked on address book
 2024-08-31 11:21:19.140 [main] INFO  testCases.TC_AddressTest - providing info to address form
 2024-08-31 11:21:20.420 [main] INFO  testCases.TC_AddressTest - test case finished
+2024-08-31 19:38:47.661 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-08-31 19:38:54.645 [main] INFO  testCases.TC_AddressTest - *** starting address DDT... ***
+2024-08-31 19:38:55.129 [main] INFO  testCases.TC_AddressTest - completed homepage
+2024-08-31 19:38:56.079 [main] INFO  testCases.TC_AddressTest - completed login
+2024-08-31 19:38:56.397 [main] INFO  testCases.TC_AddressTest - clicked on address book
+2024-08-31 19:38:56.922 [main] INFO  testCases.TC_AddressTest - providing info to address form
+2024-08-31 19:38:58.936 [main] INFO  testCases.TC_AddressTest - test case finished
+2024-08-31 20:18:57.122 [main] INFO  testCases.TC_AddressTest - *** starting address DDT... ***
+2024-09-06 17:30:02.841 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\crossbrowsertesting.xml
+
+2024-09-06 17:30:14.613 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-09-06 17:30:14.786 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-09-06 17:30:14.863 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-09-06 17:30:14.905 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-09-06 17:30:25.025 [TestNG-tests-2] ERROR testCases.TC_AccountRegistrationTest - test failed..
+2024-09-06 17:30:35.125 [TestNG-tests-1] ERROR testCases.TC_AccountRegistrationTest - test failed..
+2024-09-07 20:56:13.051 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\crossbrowsertesting.xml
+
+2024-09-07 20:56:15.877 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-09-07 20:56:15.996 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-09-07 20:56:16.382 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-09-07 20:56:16.391 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-09-07 20:56:17.643 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-09-07 20:56:17.647 [TestNG-tests-1] INFO  testCases.TC_AccountRegistrationTest - finished test case
+2024-09-07 20:56:19.574 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - test case started
+2024-09-07 20:56:19.684 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - clicked on my ac link
+2024-09-07 20:56:20.269 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - clicked on reg link
+2024-09-07 20:56:20.271 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - providing cust details
+2024-09-07 20:56:21.664 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - validating expected message
+2024-09-07 20:56:21.664 [TestNG-tests-2] INFO  testCases.TC_AccountRegistrationTest - finished test case
