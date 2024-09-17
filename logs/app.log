@@ -677,3 +677,8 @@
 2024-09-17 16:52:56.186 [main] INFO  testCases.TC_LoginTest - login test started..
 2024-09-17 16:53:07.426 [main] INFO  testCases.TC_LoginTest - login test started..
 2024-09-17 16:53:18.741 [main] INFO  testCases.TC_LoginTest - login test started..
+2024-09-17 17:05:57.580 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OneDrive - Bharatiya Vidya Bhavans Sardar Patel Institute Of Technology\#Testing\Automation Testing\SDET_QA\24_SDET_QA_HybridFramework\master.xml
+
+2024-09-17 17:06:02.347 [main] INFO  testCases.TC_LoginTest - login test started..
+2024-09-17 17:06:03.740 [main] INFO  testCases.TC_LoginTest - test case finished
