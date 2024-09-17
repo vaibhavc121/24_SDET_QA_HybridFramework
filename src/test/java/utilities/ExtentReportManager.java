@@ -1,8 +1,5 @@
 package utilities;
 
-import java.awt.Desktop;
-import java.io.File;
-import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
@@ -82,7 +79,7 @@ public class ExtentReportManager implements ITestListener
 		try
 		{
 			String imgPath = new BaseClass().captureScreen(result.getName());
-			test.addScreenCaptureFromPath(imgPath);
+			test.addScreenCaptureFromPath(imgPath); // attach screenshot in extent report
 		}
 		catch (Exception e1)
 		{
@@ -103,17 +100,19 @@ public class ExtentReportManager implements ITestListener
 		extent.flush();
 
 		// optional code, it will automatically open the report on the browser
-		String pathOfExtentReport = System.getProperty("user.dir") + "\\reports\\" + repName;
-		File extentReport = new File(pathOfExtentReport);
+//		String pathOfExtentReport = System.getProperty("user.dir") + "\\reports\\" + repName;
+//		File extentReport = new File(pathOfExtentReport);
+//
+//		try
+//		{
+//			Desktop.getDesktop().browse(extentReport.toURI());
+//		}
+//		catch (IOException e)
+//		{
+//			e.printStackTrace();
+//		}
 
-		try
-		{
-			Desktop.getDesktop().browse(extentReport.toURI());
-		}
-		catch (IOException e)
-		{
-			e.printStackTrace();
-		}
+		/* below code is for email */
 
 //		try
 //		{

@@ -11,7 +11,7 @@ import testBase.BaseClass;
 public class TC_LoginTest extends BaseClass
 {
 	@Test(groups =
-	{ "sanity", "master" })
+	{ "sanity", "master" }, retryAnalyzer = utilities.RetryAnalyzerClass.class)
 	public void verifyLogin()
 	{
 		logger.info("login test started..");
