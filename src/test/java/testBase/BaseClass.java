@@ -33,7 +33,7 @@ public class BaseClass
 
 	@SuppressWarnings("deprecation")
 	@BeforeClass(groups =
-	{ "sanity", "regression", "master" })
+	{ "sanity", "regression", "master", "datadriven" })
 	@Parameters(
 	{ "os", "browser" })
 	public void setup(String os, String br) throws IOException
@@ -124,11 +124,13 @@ public class BaseClass
 	}
 
 	@AfterClass(groups =
-	{ "sanity", "regression", "master" })
+	{ "sanity", "regression", "master", "datadriven" })
 	public void teardown()
 	{
 		// driver.quit();
 	}
+
+	/* --below is Other methods-- */
 
 	public String randomString()
 	{
